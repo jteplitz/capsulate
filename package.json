@@ -1,0 +1,15 @@
+{
+  "name": "capsulate",
+  "version": "0.0.1",
+  "private": true,
+  "description": "An MVC framework for node.js that makes it easy to encapsulate your code.",
+  "dependencies": {
+    "undescore": "1.5.x",
+    "async": "0.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jteplitz602/encapsulate"
+  },
+  "main": "./main"
+}
