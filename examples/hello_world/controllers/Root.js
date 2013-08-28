@@ -1,7 +1,7 @@
 (function(){
   "use strict";
 
-  var base = require("../../capsulate/main.js").Controller,
+  var base = require("../../../main.js").Controller,
       ViewClass = require("../views/Root.js"),
 
       RootCtrl, _ptype;

@@ -1,7 +1,7 @@
 (function(){
   "use strict";
   
-  var base = require("../../capsulate/main.js").View,
+  var base = require("../../../main.js").View,
 
 
       RootView, _ptype;

@@ -8,7 +8,7 @@
       routes = require('./routes'),
       user = require('./routes/user'),
       http = require('http'),
-      capsulate = require("../capsulate/main.js"),
+      capsulate = require("../../main.js"),
       path = require('path');
 
   var app = express();
